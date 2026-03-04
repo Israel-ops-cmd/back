@@ -12,10 +12,12 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^25.3.0",
+    "prisma": "^7.4.2",
     "typescript": "^5.9.3"
   },
   "dependencies": {
     "@fastify/cors": "^11.2.0",
+    "@prisma/client": "^7.4.2",
     "fastify": "^5.7.4",
     "tsx": "^4.21.0"
   }
